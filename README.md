@@ -56,6 +56,3 @@ python -m http.server 8000
 - Custom GLSL shaders
 - Vanilla JS / HTML5 Canvas
 
-## Author
-
-Mayesha Kader — AUST CSE, Computer Graphics Project

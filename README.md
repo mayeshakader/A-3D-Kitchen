@@ -4,9 +4,9 @@ An interactive 3D kitchen scene built with **Three.js** and **WebGL**, running e
 
 ## Preview
 
-![Kitchen Overview](screenshots/screenshot439.png)
-![Stove Closeup](screenshots/screenshot440.png)
-![Fullscreen View](screenshots/screenshot441.png)
+![Kitchen Overview](screenshot439.png)
+![Stove Closeup](screenshot440.png)
+![Fullscreen View](screenshot441.png)
 
 A first-person walkthrough of a fully furnished kitchen featuring a refrigerator, stove with animated burners, sink with soap bubbles, a real-time wall clock, and a skylight window.
 
